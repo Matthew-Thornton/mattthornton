@@ -1,0 +1,30 @@
+body {
+  text-align: center;   color: orange; background-color: black;
+ }
+a {
+  color: grey; background-color: black; font-size:20px;
+  }
+a:hover {
+  color: grey; background-color: black; font-size:35px;
+  }
+ .A{
+   background-color: red; text-align: center;  color: orange; font-size: 100px;
+ }
+ .A:hover {
+   color: black;
+    }
+ .B{
+  margin: 12%
+ }
+
+ footer {
+    background-color: red; text-align: center;  color: orange; font-size: 100px;
+ }
+ footer:hover {
+   color: black;
+    }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
