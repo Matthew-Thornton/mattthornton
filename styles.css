@@ -2,7 +2,7 @@ body {
   text-align: center; color: gray; background-color: black;
  }
 a {
-  color: grey; 
+  color: grey;
   }
 a:hover {
   color: grey; font-size:35px;
@@ -27,4 +27,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+.C {
+  color: green;
 }
