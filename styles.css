@@ -1,33 +1,8 @@
-body {
-  text-align: center; color: gray; background-color: black;
- }
-a {
-  color: grey;
-  }
-a:hover {
-  color: grey; font-size:35px;
-  }
- .A{
-   background-color: navy; font-size: 100px;
- }
- .A:hover {
-   color: black;
-    }
- .B{
-  margin: 12%
- }
-
- footer {
-    background-color: navy; font-size: 100px;
- }
- footer:hover {
-   color: black;
-    }
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+body{
+  background-color: #333;
+  color: white;
 }
-.C {
-  color: green;
+nav{
+  background-color: white;
+
 }
